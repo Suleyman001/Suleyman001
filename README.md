@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,12&height=150&section=header&text=Suleyman%20Jumaniyazov&desc=Full-Stack%20Developer%20|%20Engineering%20Student&fontSize=42&fontAlignY=35&descSize=22&descAlignY=55&animation=fadeIn"/>
 
   <!-- Gif picture -->
-<img align="left" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="left" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=28B463&center=true&vCenter=true&multiline=true&random=false&width=600&height=110&lines=Software+Engineering+Student;Full-Stack+Development+Enthusiast;Educational+Technology+Developer" alt="Typing SVG" />

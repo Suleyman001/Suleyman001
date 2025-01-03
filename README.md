@@ -20,7 +20,9 @@
 <!-- Introduction Section -->
 
 <!-- Skills Section -->
-## 💻 Tech Stack:
+<details>
+<summary> 💻 Click to see my tech skills:</summary>
+        
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -93,6 +95,7 @@
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+</details>
 <!-- GitHub Stats -->
 <p align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Suleyman001&show_icons=true&theme=tokyonight" alt="Suleyman001's GitHub Stats" />

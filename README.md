@@ -3,20 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,12&height=160&section=header&text=Suleyman%20Jumaniyazov&desc=Full-Stack%20Developer%20|%20Engineering%20Student&fontSize=24&fontAlignY=25&descSize=22&descAlignY=55&animation=fadeIn"/>
 
   <!-- Gif picture -->
-<img align="left" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
   <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=28B463&center=true&vCenter=true&multiline=true&random=false&width=600&height=110&lines=Software+Engineering+Student;Full-Stack+Development+Enthusiast;Educational+Technology+Developer" alt="Typing SVG" />
-<br> <br> <br> 
-  <!-- Social Links -->
-  <p>
-    <a href="mailto:suleyman290401@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/suleyman-jumaniyazov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/j.suleyman001/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://www.instagram.com/suleymanjumaniyazov01/"><img src="https://img.shields.io/badge/Instagram-Alternative-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
-    <a href="https://t.me/Iprefernottosayit"><img src="https://img.shields.io/badge/Telegram-Message-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  </p>
+ <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=28B463&center=true&vCenter=true&multiline=true&random=false&width=600&height=110&lines=Software+Engineering+Student;Full-Stack+Development+Enthusiast;Educational+Technology+Developer" alt="Typing SVG" />-->
+
 </div>
+
 
 <!-- Introduction Section -->
 <div align="center"> 
@@ -41,9 +34,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 <img width="12" />
 </div>
+
+ <!-- Social Links -->
+<details>
+<summary>Contact me via:</summary>
+  <div align="center"> <p>
+    <a href="mailto:suleyman290401@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/suleyman-jumaniyazov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/j.suleyman001/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.instagram.com/suleymanjumaniyazov01/"><img src="https://img.shields.io/badge/Instagram-Alternative-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
+    <a href="https://t.me/Iprefernottosayit"><img src="https://img.shields.io/badge/Telegram-Message-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  </p></div>
+ </details>
+
 <!-- Skills Section -->
 <details>
-<summary> 💻 Click to see my tech skills:</summary>
+<summary>Tech skills:</summary>
         
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -118,12 +124,16 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </details>
-<!-- GitHub Stats -->
+<details>
+  <!-- GitHub Stats -->
+<summary>Github stats:</summary>
 <p align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Suleyman001&show_icons=true&theme=tokyonight" alt="Suleyman001's GitHub Stats" />
   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suleyman001&theme=tokyonight" alt="Suleyman001's GitHub Streak" />
   <img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleyman001&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suleyman001&theme=react-dark&hide_border=true" width="95%"/>
+</details>
 
 <!-- Footer -->
 <p align="center">

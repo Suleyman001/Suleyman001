@@ -6,8 +6,8 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
   <!-- Animated Text -->
- <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=28B463&center=true&vCenter=true&multiline=true&random=false&width=600&height=110&lines=Software+Engineering+Student;Full-Stack+Development+Enthusiast;Educational+Technology+Developer" alt="Typing SVG" />-->
-
+<!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=28B463&center=true&vCenter=true&multiline=true&random=false&width=600&height=110&lines=Software+Engineering+Student;Full-Stack+Development+Enthusiast;Educational+Technology+Developer" alt="Typing SVG" />-->
+<br><br>
 </div>
 
 
@@ -33,7 +33,7 @@
 <img width="12" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 <img width="12" />
-</div>
+</div><br><br>
 
  <!-- Social Links -->
 <details>

@@ -138,7 +138,8 @@
 <!-- Footer -->
 <p align="center">
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Thanks+for+your+Attention!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Have+fun!;Enjoy+the+design!;Thank+you+for+your+attention!;Köszönöm+a+figyelmet!;Спасибо+за+внимание!;谢谢+您的+关注!;شكرًا+على+اهتمامكم!;धन्यवाद+आपके+ध्यान+के+लिए!;Merci+pour+votre+attention!;Danke+für+Ihre+Aufmerksamkeit!;Grazie+per+la+vostra+attenzione!;And+it+starts+again!" alt="Typing SVG" />
+
   <!-- Profile Views Counter -->   
   <div style="display: flex; align-items: center;">
   <a href="https://ko-fi.com/jsuleyman"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Suleyman"/></a>

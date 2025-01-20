@@ -135,10 +135,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suleyman001&theme=react-dark&hide_border=true" width="95%"/>
 </details>
 
+<!-- Meme -->
 <details> 
 <summary>😁 Meme:</summary>
 <img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+</details>
 
+<!-- Quotes -->
+<details> 
+<summary>✍️ Random Dev Quotes </summary>
+<img alt="Random Quotes" height="250px"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </details>
 
 <!-- Footer -->

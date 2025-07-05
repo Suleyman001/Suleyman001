@@ -11,7 +11,7 @@
 </div>
 
 <!-- Introduction Section -->
-<div align="center">
+<div align="center" style="margin-top: -40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px; margin: 0 6px;" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="height:40px; margin: 0 6px;" alt="storybook logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" style="height:40px; margin: 0 6px;" alt="unix logo" />
@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:40px; margin: 0 6px;" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px; margin: 0 6px;" alt="numpy logo" />
 </div>
-
 
 
  <!-- Social Links -->

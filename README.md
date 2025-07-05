@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:40px; margin: 0 6px;" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px; margin: 0 6px;" alt="numpy logo" />
 </div>
-
+<br><br>
 
  <!-- Social Links -->
 <details>
